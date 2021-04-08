@@ -1,0 +1,7 @@
+[packages]
+pytest = "6.2.2"
+pytest-bdd = "4.0.2"
+selenium = "3.141.0"
+
+[requires]
+python_version = "3.9.1"
